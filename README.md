@@ -1,1 +1,1 @@
-# Teoria-din-mica-organiza-o-web
+# Teoria-dinamica-organiza-o-web
